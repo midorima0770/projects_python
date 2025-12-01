@@ -1,0 +1,13 @@
+fastapi
+sqlalchemy
+pydantic
+dotenv
+uvicorn
+asyncpg
+alembic
+psycopg2-binary
+passlib
+python-jose[cryptography]
+python-multipart
+tzdata
+websockets

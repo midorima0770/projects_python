@@ -1,0 +1,27 @@
+# Виртуальная среда
+.venv/
+venv/
+
+# env-файлы
+.env
+*.env
+
+# Alembic (если не хочешь коммитить миграции)
+# alembic/
+# alembic.ini
+
+# Python кеши
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# logs
+*.log
+
+alembic
+
+# PyCharm
+.idea/
+*.iml
+
